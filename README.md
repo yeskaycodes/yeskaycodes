@@ -11,11 +11,13 @@ Currently pursuing an MS in Business Analytics at California State University, E
 **Work experience:**
 
 Delhivery (Logistics firm) - Data analyst, Business Intelligence & Strategy
+
 KPMG India - Risk Analyst, Governance, Risk and Compliance Services (GRCS)
 
 **Education:**
 
 California State University, East Bay - Hayward, CA - Master of Science in Business Analytics
+
 IE Business School (Instituto de Empresa) - Madrid, Spain - Master in Management
 
 
