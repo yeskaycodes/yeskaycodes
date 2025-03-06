@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yeskaycodes, a Business Intelligence & Data Analytics Enthusiast
+- 👋 Hi, I’m Shrikirti, a Business Intelligence & Data Analytics Enthusiast!
 - 👀 I’m interested in all things data
 - 🌱 I’m currently doing my MS in Business Analytics
 - ⚡ Fun fact: When I am not coding, I would most likely be trying out a new recipe! 
