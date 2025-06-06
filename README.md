@@ -6,7 +6,7 @@
 **About me:**
 
 I have 3 years of experience in data analytics, business intelligence, and sales strategy across logistics, e-commerce, and consulting. Skilled in SQL, Python, and viz tools, I specialize in BI dashboard development, sales forecasting, and process optimization to drive efficiency and revenue growth.
-I recently earned an MS in Business Analytics from California State University, East Bay, and am passionate about leveraging data to solve complex business problems.
+I recently graduated with an MS in Business Analytics from California State University, East Bay, and am passionate about leveraging data to solve complex business problems.
 
 **Work experience:**
 
