@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shrikirti, a Business Intelligence & Data Analytics Enthusiast!
 - 👀 I’m interested in all things data
-- 🌱 I’m currently doing my MS in Business Analytics
+- 🌱 I’m a recent MS in Business Analytics graduate
 - ⚡ Fun fact: When I am not coding, I would most likely be trying out a new recipe! 
 
 **About me:**
