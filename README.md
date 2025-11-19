@@ -18,6 +18,10 @@ I recently graduated with an MS in Business Analytics from California State Univ
 - California State University, East Bay - Hayward, CA - Master of Science in Business Analytics
 - IE Business School (Instituto de Empresa) - Madrid, Spain - Master in Management
 
+  - [My LinkedIn](https://www.linkedin.com/in/shrikirtiv/)
+  - [My Portfolio](https://shrikirtiv.wixsite.com/analytics-portfolio)
+  - [Tableau Viz Projects](https://public.tableau.com/app/profile/shrikirti.vijayendra/vizzes)
+
 
 <!---
 yeskaycodes/yeskaycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
